@@ -1,0 +1,977 @@
+[
+  {
+    "id": "jhumka-box-16",
+    "name": "Jhumka Box 16 Earrings",
+    "category": "jhumkas",
+    "category_name": "Jhumkas & Jewelry Boxes",
+    "price": 6000.0,
+    "original_price": 7500.0,
+    "description": "Deluxe organizer presentation box fitted with 16 pairs of handcrafted traditional & contemporary jhumkas. (Empty box available for LKR 3,100).",
+    "image": "/products/crop_1_0.jpg",
+    "badge": "Bestseller",
+    "rating": 5.0,
+    "reviews_count": 84,
+    "customizable": true,
+    "customization_type": "options",
+    "options": [
+      {
+        "label": "Full Set with 16 Earrings",
+        "price": 6000.0
+      },
+      {
+        "label": "Empty Display Box Only",
+        "price": 3100.0
+      }
+    ],
+    "tags": [
+      "jhumkas",
+      "jewelry",
+      "for-her",
+      "wedding",
+      "anniversary"
+    ]
+  },
+  {
+    "id": "mini-bouquet-classic",
+    "name": "Mini Bouquet Classic",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 2500.0,
+    "original_price": 3000.0,
+    "description": "Vibrant and aesthetic mini bouquet wrapped with premium Korean gift paper, ideal for birthdays and sweet surprises.",
+    "image": "/products/crop_1_1.jpg",
+    "badge": "Popular",
+    "rating": 4.9,
+    "reviews_count": 42,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "bouquet",
+      "flowers",
+      "mini",
+      "birthday",
+      "sweet"
+    ]
+  },
+  {
+    "id": "jhumkas-box-medium",
+    "name": "Jhumkas Box Medium (16 Earrings)",
+    "category": "jhumkas",
+    "category_name": "Jhumkas & Jewelry Boxes",
+    "price": 7600.0,
+    "original_price": 8900.0,
+    "description": "Medium luxury velvet keepsake case adorned with 16 pairs of premium gold-toned and beaded jhumkas.",
+    "image": "/products/crop_1_2.jpg",
+    "badge": "Trending",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "customizable": true,
+    "customization_type": "options",
+    "options": [
+      {
+        "label": "Full Velvet Box with 16 Earrings",
+        "price": 7600.0
+      },
+      {
+        "label": "Empty Velvet Box Only",
+        "price": 3100.0
+      }
+    ],
+    "tags": [
+      "jhumkas",
+      "jewelry",
+      "luxury",
+      "traditional"
+    ]
+  },
+  {
+    "id": "car-bouquet-enthusiast",
+    "name": "Diecast Car Model Bouquet",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 4000.0,
+    "original_price": 4800.0,
+    "description": "The ultimate surprise for car lovers! A stunning floral bouquet featuring miniature diecast collectible cars wrapped in royal navy ribbon.",
+    "image": "/products/crop_1_3.jpg",
+    "badge": "Viral Trend",
+    "rating": 5.0,
+    "reviews_count": 112,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "car",
+      "hotwheels",
+      "for-him",
+      "boyfriend",
+      "birthday"
+    ]
+  },
+  {
+    "id": "bouquet-delight",
+    "name": "Celebration Floral Delight Bouquet",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 6400.0,
+    "original_price": 7800.0,
+    "description": "Handcrafted luxury bouquet with layered wrapping, festive ribbons, and premium imported floral accents.",
+    "image": "/products/crop_1_4.jpg",
+    "badge": "Celebration Pick",
+    "rating": 4.9,
+    "reviews_count": 53,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "bouquet",
+      "flowers",
+      "celebration",
+      "anniversary"
+    ]
+  },
+  {
+    "id": "rose-bouquet-crimson",
+    "name": "Crimson Velvet Rose Bouquet",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 2800.0,
+    "original_price": 3500.0,
+    "description": "Everlasting velvet red roses hand-tied with golden ribbon accents and delicate greenery. Long-lasting beauty that never wilts.",
+    "image": "/products/crop_1_5.jpg",
+    "badge": "Romantic Pick",
+    "rating": 4.9,
+    "reviews_count": 95,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "rose",
+      "romantic",
+      "anniversary",
+      "love",
+      "valentines"
+    ]
+  },
+  {
+    "id": "boys-gift-hamper-deluxe",
+    "name": "Gentlemen's Luxury Gift Hamper",
+    "category": "hampers",
+    "category_name": "Gift Hampers & Sets",
+    "price": 7200.0,
+    "original_price": 8500.0,
+    "description": "Curated gift set for him: leather wallet, premium fragrance, mini keepsake photo frame, chocolates, and greeting card in a luxury gift box.",
+    "image": "/products/crop_1_6.jpg",
+    "badge": "Best For Him",
+    "rating": 5.0,
+    "reviews_count": 64,
+    "customizable": true,
+    "customization_type": "options",
+    "tags": [
+      "hamper",
+      "for-him",
+      "boyfriend",
+      "husband",
+      "birthday"
+    ]
+  },
+  {
+    "id": "mini-frame-3x3",
+    "name": "Mini Keepsake Frame (3x3 inch)",
+    "category": "frames_4d",
+    "category_name": "Custom Frames & 4D Lights",
+    "price": 499.0,
+    "original_price": 650.0,
+    "description": "Small but deeply special! Compact wooden photo frame perfect for study desks, bedside tables, or car dashboards.",
+    "image": "/products/crop_1_7.jpg",
+    "badge": "Budget Gem",
+    "rating": 4.8,
+    "reviews_count": 145,
+    "customizable": true,
+    "customization_type": "polaroid",
+    "tags": [
+      "frame",
+      "mini",
+      "photo",
+      "gift"
+    ]
+  },
+  {
+    "id": "mini-frame-4x4",
+    "name": "Mini Keepsake Frame (4x4 inch)",
+    "category": "frames_4d",
+    "category_name": "Custom Frames & 4D Lights",
+    "price": 599.0,
+    "original_price": 750.0,
+    "description": "Square desk frame printed with your custom high-gloss photo and UV protective glass.",
+    "image": "/products/crop_5_0.jpg",
+    "badge": "Popular",
+    "rating": 4.8,
+    "reviews_count": 78,
+    "customizable": true,
+    "customization_type": "polaroid",
+    "tags": [
+      "frame",
+      "mini",
+      "desk"
+    ]
+  },
+  {
+    "id": "sketch-4d-light-frame",
+    "name": "4D Glowing Art Light Frame",
+    "category": "frames_4d",
+    "category_name": "Custom Frames & 4D Lights",
+    "price": 3000.0,
+    "original_price": 3800.0,
+    "description": "4D Light Frame - Art Comes to Life! Multi-layer illuminated shadow frame with ambient warm glow LED lighting. Plug-and-play USB.",
+    "image": "/products/crop_9_0.jpg",
+    "badge": "Must Have",
+    "rating": 5.0,
+    "reviews_count": 89,
+    "customizable": true,
+    "customization_type": "qr_frame",
+    "tags": [
+      "4d",
+      "light-frame",
+      "led",
+      "romantic",
+      "nightlamp"
+    ]
+  },
+  {
+    "id": "magic-4d-frame",
+    "name": "Magic 4D Illusion Frame",
+    "category": "frames_4d",
+    "category_name": "Custom Frames & 4D Lights",
+    "price": 3200.0,
+    "original_price": 4000.0,
+    "description": "Illuminated 3D depth frame that transforms between daytime line art and nighttime magical glowing landscape.",
+    "image": "/products/crop_14_2.jpg",
+    "badge": "New Arrival",
+    "rating": 4.9,
+    "reviews_count": 44,
+    "customizable": true,
+    "customization_type": "qr_frame",
+    "tags": [
+      "magic",
+      "4d",
+      "optical-illusion",
+      "decor"
+    ]
+  },
+  {
+    "id": "spotify-frame-a4",
+    "name": "Custom Spotify Song Frame (A4)",
+    "category": "spotify_qr",
+    "category_name": "Spotify & Voice QR Frames",
+    "price": 2000.0,
+    "original_price": 2600.0,
+    "description": "Your special song captured forever! Premium acrylic A4 frame featuring your photo, album title, artist, and scannable Spotify code.",
+    "image": "/products/crop_7_7.jpg",
+    "badge": "Top Seller",
+    "rating": 5.0,
+    "reviews_count": 210,
+    "customizable": true,
+    "customization_type": "spotify",
+    "tags": [
+      "spotify",
+      "music",
+      "song",
+      "anniversary",
+      "customized"
+    ]
+  },
+  {
+    "id": "spotify-frame-6x8",
+    "name": "Spotify Music Plaque Frame (6x8 inch)",
+    "category": "spotify_qr",
+    "category_name": "Spotify & Voice QR Frames",
+    "price": 1200.0,
+    "original_price": 1600.0,
+    "description": "Desk-sized Spotify plaque frame. Scan the code in the Spotify app to instantly play your favorite song.",
+    "image": "/products/crop_10_3.jpg",
+    "badge": "Trending",
+    "rating": 4.9,
+    "reviews_count": 132,
+    "customizable": true,
+    "customization_type": "spotify",
+    "tags": [
+      "spotify",
+      "music",
+      "desk",
+      "romantic"
+    ]
+  },
+  {
+    "id": "voice-qr-frame-6x8",
+    "name": "VoiceQR Audio Frame (6x8 inch)",
+    "category": "spotify_qr",
+    "category_name": "Spotify & Voice QR Frames",
+    "price": 1300.0,
+    "original_price": 1750.0,
+    "description": "'VoiceQR Frame - Let Your Voice Speak'. Scan the QR code to hear your heartfelt recorded voice message or watch a private memory video!",
+    "image": "/products/crop_3_6.jpg",
+    "badge": "Emotional Touch",
+    "rating": 5.0,
+    "reviews_count": 96,
+    "customizable": true,
+    "customization_type": "qr_frame",
+    "tags": [
+      "qr",
+      "voice-note",
+      "audio",
+      "video",
+      "surprise"
+    ]
+  },
+  {
+    "id": "voice-qr-frame-a4",
+    "name": "VoiceQR Audio Frame (A4 Large)",
+    "category": "spotify_qr",
+    "category_name": "Spotify & Voice QR Frames",
+    "price": 2100.0,
+    "original_price": 2700.0,
+    "description": "Large statement frame with custom photo and dynamic scannable QR code linking to your voice note, YouTube song, or video montage.",
+    "image": "/products/crop_19_1.jpg",
+    "badge": "Popular",
+    "rating": 4.9,
+    "reviews_count": 67,
+    "customizable": true,
+    "customization_type": "qr_frame",
+    "tags": [
+      "qr",
+      "audio",
+      "voice",
+      "frame"
+    ]
+  },
+  {
+    "id": "voice-qr-frame-a3",
+    "name": "VoiceQR Masterpiece Frame (A3)",
+    "category": "spotify_qr",
+    "category_name": "Spotify & Voice QR Frames",
+    "price": 2900.0,
+    "original_price": 3800.0,
+    "description": "Grand A3 wall-mounted VoiceQR memory frame with high-definition luster photo printing and engraved QR badge.",
+    "image": "/products/crop_8_1.jpg",
+    "badge": "Grand Wall Art",
+    "rating": 5.0,
+    "reviews_count": 38,
+    "customizable": true,
+    "customization_type": "qr_frame",
+    "tags": [
+      "qr",
+      "wall-art",
+      "grand"
+    ]
+  },
+  {
+    "id": "polaroids-photos-pack",
+    "name": "Retro Polaroid Photo Prints Set",
+    "category": "cards_polaroids",
+    "category_name": "Cards & Polaroid Memories",
+    "price": 350.0,
+    "original_price": 500.0,
+    "description": "'Capture Your Memories with InT...' - Genuine retro glossy Polaroid style prints with personalized captions.",
+    "image": "/products/crop_12_7.jpg",
+    "badge": "Best Value",
+    "rating": 4.9,
+    "reviews_count": 320,
+    "customizable": true,
+    "customization_type": "polaroid",
+    "tags": [
+      "polaroid",
+      "photos",
+      "memories",
+      "keepsake"
+    ]
+  },
+  {
+    "id": "baby-polaroid-photos",
+    "name": "Baby Milestone Polaroid Set",
+    "category": "cards_polaroids",
+    "category_name": "Cards & Polaroid Memories",
+    "price": 350.0,
+    "original_price": 500.0,
+    "description": "Adorable pastel Polaroid prints capturing your baby's precious first milestones, footprints, and birthdays.",
+    "image": "/products/crop_6_4.jpg",
+    "badge": "Sweet Moments",
+    "rating": 5.0,
+    "reviews_count": 45,
+    "customizable": true,
+    "customization_type": "polaroid",
+    "tags": [
+      "baby",
+      "polaroid",
+      "kids",
+      "memories"
+    ]
+  },
+  {
+    "id": "kinderjoy-chocolate-bouquet",
+    "name": "Kinder Joy Sweet Treats Bouquet",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 6300.0,
+    "original_price": 7500.0,
+    "description": "Joyful chocolate bouquet filled with Kinder Joy eggs, premium chocolates, and festive ribbons.",
+    "image": "/products/crop_5_2.jpg",
+    "badge": "Kids Favorite",
+    "rating": 4.9,
+    "reviews_count": 61,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "kinderjoy",
+      "chocolate",
+      "bouquet",
+      "kids"
+    ]
+  },
+  {
+    "id": "dairy-milk-chocolate-bouquet",
+    "name": "Cadbury Dairy Milk Chocolate Bouquet",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 5900.0,
+    "original_price": 7000.0,
+    "description": "A chocolate lover's dream! Beautifully crafted bouquet packed with delicious Cadbury Dairy Milk bars and golden wrappers.",
+    "image": "/products/crop_8_6.jpg",
+    "badge": "Choco Lover",
+    "rating": 5.0,
+    "reviews_count": 82,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "dairymilk",
+      "chocolate",
+      "bouquet",
+      "sweet"
+    ]
+  },
+  {
+    "id": "kitkat-20-bouquet",
+    "name": "20 KitKat Chocolate Mega Bouquet",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 6690.0,
+    "original_price": 7900.0,
+    "description": "Impressive grand bouquet loaded with 20 crunchy Nestle KitKat chocolate bars wrapped in gold and crimson paper.",
+    "image": "/products/crop_9_2.jpg",
+    "badge": "Mega Size",
+    "rating": 5.0,
+    "reviews_count": 94,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "kitkat",
+      "chocolate",
+      "mega",
+      "treat"
+    ]
+  },
+  {
+    "id": "butterfly-bouquet",
+    "name": "Luminous Butterfly Fairy Bouquet",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 2800.0,
+    "original_price": 3500.0,
+    "description": "Ethereal bouquet of handcrafted 3D shimmering butterflies illuminated by warm battery-powered LED fairy lights.",
+    "image": "/products/crop_5_7.jpg",
+    "badge": "Trending Aesthetic",
+    "rating": 5.0,
+    "reviews_count": 178,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "butterfly",
+      "fairy-lights",
+      "aesthetic",
+      "girl"
+    ]
+  },
+  {
+    "id": "butterfly-bouquet-teddy",
+    "name": "Butterfly Fairy Bouquet with Plush Teddy",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 3800.0,
+    "original_price": 4600.0,
+    "description": "The magical butterfly fairy light bouquet paired with a super soft, cuddly plush teddy bear.",
+    "image": "/products/crop_6_6.jpg",
+    "badge": "Most Gifted",
+    "rating": 5.0,
+    "reviews_count": 143,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "teddy",
+      "butterfly",
+      "romantic",
+      "cute"
+    ]
+  },
+  {
+    "id": "earrings-bouquet-20",
+    "name": "20 Pair Earrings Grand Floral Bouquet",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 8000.0,
+    "original_price": 9500.0,
+    "description": "Innovative and gorgeous! A luxury flower bouquet creatively embedded with 20 pairs of stunning earrings she can wear forever.",
+    "image": "/products/crop_0_2.jpg",
+    "badge": "Unique Innovation",
+    "rating": 5.0,
+    "reviews_count": 89,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "earrings",
+      "jewelry",
+      "bouquet",
+      "for-her"
+    ]
+  },
+  {
+    "id": "earrings-bouquet-15",
+    "name": "15 Pair Earrings Floral Bouquet",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 6000.0,
+    "original_price": 7200.0,
+    "description": "Charming bouquet with 15 fashionable earring studs and drops nestled within delicate everlasting blossoms.",
+    "image": "/products/crop_9_7.jpg",
+    "badge": "Special Gift",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "earrings",
+      "jewelry",
+      "bouquet"
+    ]
+  },
+  {
+    "id": "bangles-bouquet",
+    "name": "Traditional Silk & Metal Bangles Bouquet",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 5800.0,
+    "original_price": 6900.0,
+    "description": "Traditional elegance meets modern gift presentation. Beautiful assortment of bangles crafted into a bouquet. (Without chocolate LKR 5,300).",
+    "image": "/products/crop_3_4.jpg",
+    "badge": "Cultural Charm",
+    "rating": 4.8,
+    "reviews_count": 39,
+    "customizable": true,
+    "customization_type": "options",
+    "options": [
+      {
+        "label": "With Premium Chocolates (LKR 5,800)",
+        "price": 5800.0
+      },
+      {
+        "label": "Without Chocolates (LKR 5,300)",
+        "price": 5300.0
+      }
+    ],
+    "tags": [
+      "bangles",
+      "traditional",
+      "indian",
+      "sri-lankan"
+    ]
+  },
+  {
+    "id": "pencil-drawing-a4",
+    "name": "Handmade Realistic Pencil Portrait (A4)",
+    "category": "art_drawings",
+    "category_name": "Handmade & Digital Art",
+    "price": 4800.0,
+    "original_price": 5800.0,
+    "description": "Turn your favorite photo into timeless graphite pencil art drawn by master artists. Includes protective glass framing.",
+    "image": "/products/crop_8_4.jpg",
+    "badge": "Handmade Art",
+    "rating": 5.0,
+    "reviews_count": 65,
+    "customizable": true,
+    "customization_type": "art_upload",
+    "tags": [
+      "portrait",
+      "pencil-sketch",
+      "handmade",
+      "art"
+    ]
+  },
+  {
+    "id": "pencil-drawing-a3",
+    "name": "Handmade Realistic Pencil Portrait (A3 Large)",
+    "category": "art_drawings",
+    "category_name": "Handmade & Digital Art",
+    "price": 6200.0,
+    "original_price": 7500.0,
+    "description": "Large format pencil sketch capturing every fine nuance and emotion. Framed with premium mount board.",
+    "image": "/products/crop_14_1.jpg",
+    "badge": "Masterpiece",
+    "rating": 5.0,
+    "reviews_count": 42,
+    "customizable": true,
+    "customization_type": "art_upload",
+    "tags": [
+      "pencil",
+      "portrait",
+      "large",
+      "art"
+    ]
+  },
+  {
+    "id": "scribble-art-a4",
+    "name": "Contemporary Scribble Art Portrait (A4)",
+    "category": "art_drawings",
+    "category_name": "Handmade & Digital Art",
+    "price": 3900.0,
+    "original_price": 4800.0,
+    "description": "Trendy high-energy chaotic scribble technique creating a striking modern likeness. Perfect for modern interior decor.",
+    "image": "/products/crop_6_2.jpg",
+    "badge": "Modern Vibe",
+    "rating": 4.9,
+    "reviews_count": 53,
+    "customizable": true,
+    "customization_type": "art_upload",
+    "tags": [
+      "scribble",
+      "art",
+      "modern",
+      "portrait"
+    ]
+  },
+  {
+    "id": "scribble-art-a3",
+    "name": "Contemporary Scribble Art Portrait (A3)",
+    "category": "art_drawings",
+    "category_name": "Handmade & Digital Art",
+    "price": 5800.0,
+    "original_price": 7000.0,
+    "description": "A3 statement piece of custom scribble art, beautifully framed in matte black timber frame.",
+    "image": "/products/crop_3_5.jpg",
+    "badge": "Trending Art",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "customizable": true,
+    "customization_type": "art_upload",
+    "tags": [
+      "scribble",
+      "art",
+      "wall-decor"
+    ]
+  },
+  {
+    "id": "digital-oil-painting-a4",
+    "name": "Digital Oil Painting on Textured Canvas (A4)",
+    "category": "art_drawings",
+    "category_name": "Handmade & Digital Art",
+    "price": 4500.0,
+    "original_price": 5500.0,
+    "description": "Rich oil brush textures and vivid color depth rendered from your photo, printed on museum-quality art canvas.",
+    "image": "/products/crop_13_2.jpg",
+    "badge": "Vibrant Color",
+    "rating": 5.0,
+    "reviews_count": 71,
+    "customizable": true,
+    "customization_type": "art_upload",
+    "tags": [
+      "oil-painting",
+      "canvas",
+      "art",
+      "portrait"
+    ]
+  },
+  {
+    "id": "oil-painting-a3",
+    "name": "Digital Oil Painting Canvas (A3)",
+    "category": "art_drawings",
+    "category_name": "Handmade & Digital Art",
+    "price": 5800.0,
+    "original_price": 7200.0,
+    "description": "Rich, painterly strokes transforming your couple, family, or solo photo into a grand gallery oil canvas.",
+    "image": "/products/crop_3_7.jpg",
+    "badge": "Gallery Quality",
+    "rating": 5.0,
+    "reviews_count": 48,
+    "customizable": true,
+    "customization_type": "art_upload",
+    "tags": [
+      "oil-painting",
+      "a3",
+      "canvas"
+    ]
+  },
+  {
+    "id": "illustration-frame-a4",
+    "name": "Faceless Minimalist Illustration Frame (A4)",
+    "category": "art_drawings",
+    "category_name": "Handmade & Digital Art",
+    "price": 3800.0,
+    "original_price": 4600.0,
+    "description": "Chic aesthetic faceless digital vector portrait of you and your loved one with pastel background and custom quotes.",
+    "image": "/products/crop_9_3.jpg",
+    "badge": "Aesthetic Trend",
+    "rating": 4.9,
+    "reviews_count": 88,
+    "customizable": true,
+    "customization_type": "art_upload",
+    "tags": [
+      "illustration",
+      "faceless",
+      "minimalist",
+      "aesthetic"
+    ]
+  },
+  {
+    "id": "single-eye-frame",
+    "name": "Romantic Iris / Single Eye Keepsake Frame",
+    "category": "frames_4d",
+    "category_name": "Custom Frames & 4D Lights",
+    "price": 599.0,
+    "original_price": 800.0,
+    "description": "Macro photography capture of your partner's iris, framed in a sleek desktop stand: 'The prettiest eyes I have ever seen'.",
+    "image": "/products/crop_9_5.jpg",
+    "badge": "Deeply Romantic",
+    "rating": 5.0,
+    "reviews_count": 105,
+    "customizable": true,
+    "customization_type": "polaroid",
+    "tags": [
+      "eye",
+      "iris",
+      "romantic",
+      "couple"
+    ]
+  },
+  {
+    "id": "eye-frame-inside-pic",
+    "name": "Couple Eye Fusion Keepsake Frame",
+    "category": "frames_4d",
+    "category_name": "Custom Frames & 4D Lights",
+    "price": 699.0,
+    "original_price": 900.0,
+    "description": "Artistic half-and-half composite portrait featuring both of your eyes side-by-side with romantic quote.",
+    "image": "/products/crop_8_3.jpg",
+    "badge": "Couple Goal",
+    "rating": 5.0,
+    "reviews_count": 62,
+    "customizable": true,
+    "customization_type": "polaroid",
+    "tags": [
+      "eye",
+      "couple",
+      "fusion",
+      "keepsake"
+    ]
+  },
+  {
+    "id": "custom-photo-puzzle-a4",
+    "name": "Custom Photo Jigsaw Puzzle (A4 - 120 Pcs)",
+    "category": "puzzles",
+    "category_name": "Custom Puzzles & Magazines",
+    "price": 2300.0,
+    "original_price": 2900.0,
+    "description": "A delightful interactive surprise! Submit your favorite photo and surprise them with an unassembled puzzle they piece together.",
+    "image": "/products/crop_3_2.jpg",
+    "badge": "Fun & Interactive",
+    "rating": 4.9,
+    "reviews_count": 73,
+    "customizable": true,
+    "customization_type": "polaroid",
+    "tags": [
+      "puzzle",
+      "jigsaw",
+      "interactive",
+      "memory"
+    ]
+  },
+  {
+    "id": "custom-photo-puzzle-a3",
+    "name": "Giant Custom Photo Jigsaw Puzzle (A3 - 250 Pcs)",
+    "category": "puzzles",
+    "category_name": "Custom Puzzles & Magazines",
+    "price": 3100.0,
+    "original_price": 3900.0,
+    "description": "Big format puzzle challenge featuring high-gloss photo print and sturdy interlocking puzzle pieces.",
+    "image": "/products/crop_11_2.jpg",
+    "badge": "Giant Puzzle",
+    "rating": 4.9,
+    "reviews_count": 34,
+    "customizable": true,
+    "customization_type": "polaroid",
+    "tags": [
+      "puzzle",
+      "giant",
+      "a3"
+    ]
+  },
+  {
+    "id": "personalized-magazine-cover",
+    "name": "Personalized Celebrity Magazine Cover Frame",
+    "category": "puzzles",
+    "category_name": "Custom Puzzles & Magazines",
+    "price": 2000.0,
+    "original_price": 2600.0,
+    "description": "Put your superstar on the front cover of Vogue, GQ, or Forbes with funny custom headlines, dates, and glossy glass frame.",
+    "image": "/products/crop_4_5.jpg",
+    "badge": "Fun Superstar",
+    "rating": 5.0,
+    "reviews_count": 89,
+    "customizable": true,
+    "customization_type": "polaroid",
+    "tags": [
+      "magazine",
+      "vogue",
+      "celebrity",
+      "fun"
+    ]
+  },
+  {
+    "id": "spotify-love-card",
+    "name": "Interactive Spotify Love Card",
+    "category": "cards_polaroids",
+    "category_name": "Cards & Polaroid Memories",
+    "price": 599.0,
+    "original_price": 800.0,
+    "description": "Luxury textured greeting card embedded with scannable Spotify wave code and secret love message inside.",
+    "image": "/products/crop_10_0.jpg",
+    "badge": "Romantic Note",
+    "rating": 4.9,
+    "reviews_count": 119,
+    "customizable": true,
+    "customization_type": "spotify",
+    "tags": [
+      "card",
+      "spotify",
+      "love",
+      "greeting"
+    ]
+  },
+  {
+    "id": "scrapbook-memories",
+    "name": "Handmade Nostalgia Scrapbook Album",
+    "category": "cards_polaroids",
+    "category_name": "Cards & Polaroid Memories",
+    "price": 1200.0,
+    "original_price": 1600.0,
+    "description": "Vintage aesthetic kraft paper scrapbook with photo corners, stickers, and blank pages for your shared adventures.",
+    "image": "/products/crop_11_3.jpg",
+    "badge": "Cherished Keepsake",
+    "rating": 4.9,
+    "reviews_count": 49,
+    "customizable": false,
+    "tags": [
+      "scrapbook",
+      "album",
+      "diy",
+      "photos"
+    ]
+  },
+  {
+    "id": "monocollage-frame",
+    "name": "MonoCollage Memory Grid Frame",
+    "category": "frames_4d",
+    "category_name": "Custom Frames & 4D Lights",
+    "price": 2100.0,
+    "original_price": 2800.0,
+    "description": "Artistic collage layout featuring 9 to 16 of your best photos in a modern minimalist grid with sleek black border.",
+    "image": "/products/crop_7_6.jpg",
+    "badge": "Timeless Wall Decor",
+    "rating": 4.9,
+    "reviews_count": 43,
+    "customizable": true,
+    "customization_type": "polaroid",
+    "tags": [
+      "collage",
+      "grid",
+      "family",
+      "friends"
+    ]
+  },
+  {
+    "id": "large-makeup-bouquet",
+    "name": "Glamour Cosmetics & Makeup Bouquet",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 8300.0,
+    "original_price": 10500.0,
+    "description": "Delight any beauty queen with a stunning bouquet filled with branded cosmetics, lipsticks, brushes, and silk roses.",
+    "image": "/products/crop_8_5.jpg",
+    "badge": "Glamour Queen",
+    "rating": 5.0,
+    "reviews_count": 66,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "makeup",
+      "cosmetics",
+      "for-her",
+      "luxury"
+    ]
+  },
+  {
+    "id": "teddies-plush-bear",
+    "name": "Premium Fluffy Cuddle Teddy Bear",
+    "category": "hampers",
+    "category_name": "Gift Hampers & Sets",
+    "price": 3500.0,
+    "original_price": 4200.0,
+    "description": "Ultra-soft premium plush teddy bear wearing a customized satin ribbon with recipient's name.",
+    "image": "/products/crop_14_0.jpg",
+    "badge": "Cuddle Buddy",
+    "rating": 4.9,
+    "reviews_count": 91,
+    "customizable": true,
+    "customization_type": "options",
+    "tags": [
+      "teddy",
+      "plush",
+      "cute",
+      "soft"
+    ]
+  },
+  {
+    "id": "bmw-diecast-model",
+    "name": "BMW M-Performance Diecast Scale Model",
+    "category": "hampers",
+    "category_name": "Gift Hampers & Sets",
+    "price": 4800.0,
+    "original_price": 5800.0,
+    "description": "Detailed 1:24 scale diecast metal BMW model with openable doors, realistic alloy wheels, and working headlamps.",
+    "image": "/products/crop_3_1.jpg",
+    "badge": "Collector's Piece",
+    "rating": 5.0,
+    "reviews_count": 52,
+    "customizable": false,
+    "tags": [
+      "bmw",
+      "diecast",
+      "car",
+      "collector"
+    ]
+  },
+  {
+    "id": "lamborghini-car-bouquet",
+    "name": "Lamborghini Luxury Car Bouquet",
+    "category": "bouquets",
+    "category_name": "Bouquets & Flowers",
+    "price": 9000.0,
+    "original_price": 11000.0,
+    "description": "Ultra-exclusive gift bouquet featuring genuine licensed Lamborghini miniature collectors models, chocolates, and satin ribbon.",
+    "image": "/products/crop_7_3.jpg",
+    "badge": "Ultra Luxury",
+    "rating": 5.0,
+    "reviews_count": 27,
+    "customizable": true,
+    "customization_type": "bouquet_addon",
+    "tags": [
+      "lamborghini",
+      "car",
+      "for-him",
+      "luxury"
+    ]
+  }
+]
